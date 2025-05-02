@@ -1,0 +1,21 @@
+//day1
+// what is react ? why react  ?
+// SPA vs MPA
+// JSX,Realdom,Virtual dom, Realdom,
+//  components
+
+
+// day2
+//  State,useState,hooks
+// Props,passing props, accept props
+// event handling  
+//  Conditional rendering, list rendering
+
+
+
+
+Forms & Input Handling
+Controlled components  
+ onChange, onSubmit  
+ Basic validation  
+Mini Project: Login form
