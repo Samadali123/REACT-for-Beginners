@@ -5,6 +5,9 @@ import Data from './data'
 import Hero from './Hero'
 import Conditional from './Conditional'
 import Events from './Events'
+import Cards from './cards'
+import ProductList from './lifecyclemethods'
+import ProductLists2 from './UseEffect'
 
 const App = () => {
   return (
@@ -16,6 +19,10 @@ const App = () => {
          {/* <Hero name = "arham"/> */}
          {/* <Conditional name = "arham"/> */}
           {/* <Events/> */}
+          {/* <Cards/> */}
+          {/* <ProductList/> */}
+          <ProductLists2/>
+
     </>
   )
 }
