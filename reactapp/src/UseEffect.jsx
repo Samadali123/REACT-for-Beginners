@@ -158,7 +158,18 @@ import usePaginatedProducts from './usePaginated';
 const ProductLists2 = () => {
   const [page, setPage] = useState(0);
   const { products, loading, error } = usePaginatedProducts(page, 6);
+  const [hello, sethello] = useState(second)
+  const [hello2, sethello2] = useState(second)
 
+  
+  // useEffect(() => {
+  //    alert("helklo")
+  
+  //   return () => {
+  //     alert("bye")
+  //   }
+  // }, [hello, hello2])
+  
   useEffect(() => {
     const intervalId = setInterval(() => {
       console.log('Component running at', new Date().toLocaleTimeString());
