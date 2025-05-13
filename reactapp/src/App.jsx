@@ -78,6 +78,7 @@
 
 import { NavLink } from "react-router-dom";
 import Routing from "./Routing";
+import Routing3 from "./Routing3";
 
 const App = () => {
   return (
@@ -143,7 +144,11 @@ const App = () => {
         </ul>
       </nav>
 
-      <Routing />
+       {/* basic way of routing  */}
+      {/* <Routing /> */}  
+      {/* Advanced way of routing  */}
+       <Routing3/>  
+       
     </>
   );
 };
