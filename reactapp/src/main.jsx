@@ -8,10 +8,10 @@ import router from './Routing2.jsx'
 
 
 createRoot(document.getElementById('root')).render(
-    <BrowserRouter>
-    <NameProvider>
+    // <BrowserRouter>
+    // <NameProvider>
         <App/>
-    </NameProvider>
-    </BrowserRouter>
+    // /* </NameProvider> */
+    // / * </BrowserRouter> */
     // <RouterProvider router={router} />
 )

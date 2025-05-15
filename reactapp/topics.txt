@@ -19,3 +19,22 @@ Controlled components
  onChange, onSubmit  
  Basic validation  
 Mini Project: Login form
+
+
+// routing ☑️
+// tailwind css and shadcn ☑️
+// higher order components
+// redux toolkit
+
+
+
+// firbase authentication and google
+//framer motion
+// react hook form and zod validation
+
+
+// performace optimization
+// testing with jest or mocha
+// typescript
+// web security
+// next.js

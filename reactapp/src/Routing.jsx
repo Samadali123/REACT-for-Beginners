@@ -21,7 +21,6 @@ function Routing() {
           <Route path=":id/settings" element={<UserSettings/>} />
         </Route>
         <Route path="*" element={ <PageNotFound/>} />
-
       </Routes>
   )
 }
